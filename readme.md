@@ -1,3 +1,14 @@
+# Note
+This is fork and add an node server
+
+## Run
+- npm install and npm run build
+- node server.js
+- call api to http://localhost:3100/gen
+
+
+
+------
 This Node.js CLI and API gives you the ability to generate content with the OpenAI API (GPT-4 or GPT-3.5-turbo). It can generate texts in all languages supported by Open AI.
 
 # How it works ?
